@@ -3,7 +3,7 @@
 
 # Sandori-LoginWeb: Keycloak 
 
-이 프로젝트는 Keycloak 인증 서버의 로그인 및 회원가입 페이지를 위해 제작된 HTML/CSS UI 템플릿입니다.
+Keycloak 인증 서버의 로그인 및 회원가입 페이지를 위해 제작된 HTML/CSS UI 템플릿입니다.
 
 
 
